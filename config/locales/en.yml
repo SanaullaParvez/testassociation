@@ -5,4 +5,4 @@ en:
   hello: "Hello world"
   posts:
     index:
-      confirm: "r u sure"
+      confirm: "are you sure"
