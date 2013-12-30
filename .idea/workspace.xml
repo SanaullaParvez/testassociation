@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
     </list>
     <ignored path="testassociation.iws" />
@@ -93,7 +92,7 @@
     <file path="/users_controller.rb" changelist="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" time="1388382276930" ignored="false" />
     <file path="/a.dummy" changelist="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" time="1388383702229" ignored="false" />
     <file path="/temp.yml" changelist="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" time="1388385086051" ignored="false" />
-    <file path="/en.yml" changelist="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" time="1388394624391" ignored="false" />
+    <file path="/en.yml" changelist="05ce0b5c-42ff-49bb-a6dc-d4144939ceae" time="1388394822216" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +181,7 @@
       <file leaf-file-name="en.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="257" selection-end="257" vertical-scroll-proportion="0.1923077">
+            <state line="7" column="21" selection-start="255" selection-end="255" vertical-scroll-proportion="0.1923077">
               <folding />
             </state>
           </provider>
@@ -896,7 +895,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/locales/en.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="257" selection-end="257" vertical-scroll-proportion="0.1923077">
+        <state line="7" column="21" selection-start="255" selection-end="255" vertical-scroll-proportion="0.1923077">
           <folding />
         </state>
       </provider>
